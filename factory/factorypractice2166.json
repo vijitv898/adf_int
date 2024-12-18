@@ -1,5 +1,13 @@
 {
 	"name": "factorypractice2166",
+	"properties": {
+		"globalParameters": {
+			"check_glob": {
+				"type": "string",
+				"value": "001"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
