@@ -1,0 +1,9 @@
+{
+	"name": "factorypractice2166",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9348cce-ee00-438a-868b-09bf0c052e0e",
+		"tenantId": "91cc1fb6-1275-4acf-b3ea-c213ec16257b"
+	}
+}
