@@ -1,0 +1,6 @@
+{
+	"check_glob": {
+		"type": "string",
+		"value": "001"
+	}
+}

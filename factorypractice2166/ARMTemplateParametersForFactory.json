@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "factorypractice2166"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0821-095742-25qr9ove"
+		},
+		"ADLS_LS_1_properties_typeProperties_url": {
+			"value": "https://practicestorage1101.dfs.core.windows.net/"
+		}
+	}
+}
