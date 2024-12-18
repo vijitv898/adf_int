@@ -1,0 +1,10 @@
+{
+	"name": "ADLS_LS_1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://practicestorage1101.dfs.core.windows.net/"
+		}
+	}
+}
